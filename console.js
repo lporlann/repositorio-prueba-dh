@@ -1,0 +1,1 @@
+console.log("lo pude solucionar borrando el .git de mi carpeta donde descargue tu repositorio, despues hice todos los pasos normal y a la hora de pushear le saque el master o main o sea el comando quedo git push origin")
